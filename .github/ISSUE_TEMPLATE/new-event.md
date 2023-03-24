@@ -42,8 +42,8 @@ assignees: ''
 - [ ] Tweet after event
 - [ ] Ask host if attendees list is needed and/or special location directions
 - [ ] Double check with host: microphone (if needed), soft drinks, power plugs, internet
-- [ ] Send to host to print PyLadies arrow signs
-- [ ] Print feedback forms
+- [ ] Send to host to print [PyLadies arrow signs](https://docs.google.com/presentation/d/1_SNnpaWBK3I74e4TWW4wudf6JMGBSYaq_90W2BiCiEk/edit?usp=sharing)
+- [ ] Print [feedback forms]([feedback forms](https://docs.google.com/document/d/1jxBpZGpVUFIPMiQhG9O9_c2zi5LHFjhsR0dyCO2dAD4/edit?usp=sharing))
 - [ ] Prepare introduction slides past example
 
 ## DAY OF THE EVENT 
@@ -62,8 +62,8 @@ assignees: ''
 
 ## AFTER THE EVENT
 - [ ] Tweet after event (if not done during the event)
-- [ ] Upload photos to google drive (you need to be part of the google group to access this)
-- [ ] Open PR with resources to this repository
+- [ ] Upload photos to [google drive](https://drive.google.com/drive/folders/1hqNE_Ol8l8dqERk-PZ2xdODWV2Go7wLs?usp=sharing) (you need to be part of the google group to access this)
+- [ ] Open PR with resources to this [repository](https://github.com/PyLadiesBerlin/resources)
 - [ ] Email sponsors & host to thank them
-- [ ] Copy feedback forms to feedback spreadsheet
+- [ ] Copy feedback forms to [feedback spreadsheet](https://docs.google.com/spreadsheets/d/1gk6tJ30WyG8tz7j5-V-SvHdR-C_TGyHLYkdjdlh_T14/edit?usp=sharing)
 - [ ] Adjust guides if valuable feedback came up
