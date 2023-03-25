@@ -1,0 +1,597 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Supporting PyLadies &#8212; PyLadies Community Organiser&#39;s guide</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d" />
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'sub_pages/supporting_pyladies';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Email Templates" href="templates/email_templates.html" />
+    <link rel="prev" title="Speaker guidelines" href="speakers_guide.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Supporting PyLadies Berlin
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../faq.html">FAQ</a></li>
+<li class="toctree-l1"><a class="reference internal" href="about_pyladies.html">PyLadies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="accounts.html">Accounts</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="coaching.html">Coaching and mentoring other PyLadies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="facilitating_events.html">Facilitating an event</a></li>
+<li class="toctree-l1"><a class="reference internal" href="giving_a_workshop_or_talk.html">Giving a workshop or talk</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hosting_and_sponsorship.html">Hosting and Sponsoring PyLadies Berlin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="social_media.html">Social Media</a></li>
+<li class="toctree-l1"><a class="reference internal" href="speakers_guide.html">Speaker guidelines</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Supporting PyLadies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="templates/email_templates.html">Email Templates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="templates/meetup_template.html">Meetup Template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="templates/social_media_templates.html">Social Media Templates</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fsub_pages/supporting_pyladies.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/sub_pages/supporting_pyladies.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Supporting PyLadies</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-you-can-expect">What you can expect</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#testimonials">Testimonials</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ways-you-can-get-involved">Ways you can get involved</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#other-ways-you-might-support-the-community">Other ways you might support the community</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recognizing-your-work-what-we-can-offer">Recognizing your work, what we can offer</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#monthly-org-meetings">Monthly Org Meetings</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ready-for-more">Ready for more?</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="supporting-pyladies">
+<h1>Supporting PyLadies<a class="headerlink" href="#supporting-pyladies" title="Permalink to this heading">#</a></h1>
+<p>PyLadies is completely ran by volunteers, we all have our own reasons for choosing to donate our free time to the community and we all do so in different ways. We welcome your support and will do our best to support you.</p>
+<p><strong>Page Contents</strong></p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#what-you-can-expect"><span class="std std-ref">What you can expect</span></a></p></li>
+<li><p><a class="reference internal" href="#ways-you-can-get-involved"><span class="std std-ref">Ways you can get involved</span></a></p></li>
+<li><p><a class="reference internal" href="#recognizing-your-work-what-we-can-offer"><span class="std std-ref">Recognizing your work, what we can offer</span></a></p></li>
+</ul>
+<section id="what-you-can-expect">
+<span id="id1"></span><h2>What you can expect<a class="headerlink" href="#what-you-can-expect" title="Permalink to this heading">#</a></h2>
+<p>Supporting can range from one off events, regular or a series of events, handling our social media or email, donating money or resources, or something else which you believe will benefit our community. As you will do this in your free time we always recommend to think about what is sustainable for your situation, and something you will feel is beneficial to you. For example giving a workshop might help you develop your public speaking skills while facilitating one might help develop managerial or team building skills. As a member of our community you are empowered to lead it and advocate for the things you feel are important. This work can be exciting and rewarding, it will not only help you build up skills, build a network within the broader Python community but also have a huge impact on many other community members. We recognize that many of you have other commitments and may have to drop out for a while or entirely if your situation changes.</p>
+<section id="testimonials">
+<h3>Testimonials<a class="headerlink" href="#testimonials" title="Permalink to this heading">#</a></h3>
+<p><em>“I love contributing to the community. I consider myself a self taught/ community taught developer and I am thankful to those who supported me on my journey transitioning into tech. I spend around 4-5 hours a week doing various tasks including talking to other community members, answering emails, checking and posting on our social media platforms, facilitating events as well as creating content. I mentor other community members who wish to get involved and speak to folks who are making similar transitions to myself to give them some insight and encouragement. I joined the org team in 2018 when I was transitioning into tech, though I had no technical skills at that point I could support with setting up events. I have taken a couple of breaks from being an organizer when I needed to put my focus elsewhere, but find myself returning due to the reasons above and because of the many friends I have made. I couldn’t imagine not being involved in some capacity.”</em>
+<em><strong>- Jessica Greene</strong></em></p>
+<p><em>“As a student, it was really nice to be completely embraced and equally valued by other ladies, joining and organizing PyLadies events also gave me an opportunity to meet people working with Python and learning about the tools being used in the industry.”</em>
+<em><strong>- F</strong></em></p>
+<p><em>“I love being part of the PyLadies community because I love connecting with like minded people, supporting each other, and working together towards PyLadies’ mission.”</em>
+<em><strong>- M</strong></em></p>
+<p><em>“For a long time I felt like I did not belong in tech. On the way, I met many people who felt as I did. This motivated me to try my best to make others feel included in the PyLadies community. Through building a community, I have found my way to belong as well.”</em>
+<em><strong>- L</strong></em></p>
+<p><em>“It is because of this group, in chapters in Rio de Janeiro, Mexico City and especially Berlin, that I was able to change careers and meet my closest care network. Especially in Berlin, a city with more than 30% foreigners far from their family network, PyLadies makes a bit of a difference in life.”</em>
+<em><strong>- P</strong></em></p>
+<p><em>“I met some of the most supportive and inspiring organizers at PyLadies. It’s a great place to share knowledge and learn. To get motivated, and inspired, and pass on sponsorship opportunities as you get ahead in you career - pay it forward. I can’t think of a better network with worthier more hardworking, giving and sincere folks. I truly cherish these connections and experiences. So grateful.”</em>
+<em><strong>- Noa Tamir</strong></em></p>
+</section>
+</section>
+<section id="ways-you-can-get-involved">
+<span id="id2"></span><h2>Ways you can get involved<a class="headerlink" href="#ways-you-can-get-involved" title="Permalink to this heading">#</a></h2>
+<p>As we mentioned there are many ways to get involved. Some of the most common ways include:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="giving_a_workshop_or_talk.html"><span class="doc std std-doc">giving a talk or workshop</span></a></p></li>
+<li><p><a class="reference internal" href="facilitating_events.html"><span class="doc std std-doc">facilitating an event</span></a></p></li>
+<li><p><a class="reference internal" href="coaching.html"><span class="doc std std-doc">being a coach or mentor</span></a></p></li>
+<li><p><a class="reference internal" href="coaching.html#support-others-on-slack"><span class="std std-ref">helping other on slack</span></a></p></li>
+<li><p><a class="reference internal" href="social_media.html"><span class="doc std std-doc">managing our social media platforms</span></a></p></li>
+<li><p><a class="reference internal" href="accounts.html#email-account-management"><span class="std std-ref">managing our emails</span></a></p></li>
+</ul>
+<section id="other-ways-you-might-support-the-community">
+<span id="id3"></span><h3>Other ways you might support the community<a class="headerlink" href="#other-ways-you-might-support-the-community" title="Permalink to this heading">#</a></h3>
+<p>However perhaps you see an opportunity we have not yet identified, we welcome ideas and suggestions. If you want to discuss them more we suggest attending our <a class="reference internal" href="#monthly-org-meetings"><span class="std std-ref">monthly org meeting</span></a> which takes place on the last Thursday of the month, we post reminders including details on how you can join in our slack.</p>
+</section>
+</section>
+<section id="recognizing-your-work-what-we-can-offer">
+<span id="id4"></span><h2>Recognizing your work, what we can offer<a class="headerlink" href="#recognizing-your-work-what-we-can-offer" title="Permalink to this heading">#</a></h2>
+<p>While we normally can’t financially compensate folks for their work we still think it’s important to recognize those who make our community so awesome :sparkle: we therefore have a couple ways that we can highlight your work:</p>
+<ul class="simple">
+<li><p>Add your volunteer work on your CV, we think it’s pretty awesome that your supporting the community and so do employers! Incase you need a reference you can email us at <a class="reference external" href="mailto:berlin&#37;&#52;&#48;pyladies&#46;com">berlin<span>&#64;</span>pyladies<span>&#46;</span>com</a> and we will do our best to write one from our official account.</p></li>
+<li><p>Add your volunteer work on LinkedIn, you can add your volunteer work to PyLadies Berlin on your profile and let potential employers know that you are supporting the community.</p></li>
+</ul>
+<p><em>example of LinkedIn accreditation</em></p>
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/example_linkedin_volunteering.png"><img alt="screen shot of linkedin profile with volunteering at PyLadies Berlin" class="bg-primary mb-1 align-center" src="../_images/example_linkedin_volunteering.png" style="width: 400px;" /></a>
+<ul class="simple">
+<li><p><em>coming soon</em> Add yourself to our website, we aim to make it easy to open a PR and add yourself as a contributor on our website. As soon as this is possible we will post information here.</p></li>
+<li><p><em>coming soon</em> Let us shout about you! We would love to make some noise about how you are supporting our community, we will collect some basic information so we can post on our social media platforms and show our appreciation.</p></li>
+<li><p><em>coming soon</em> We are currently waiting on PyLadies Berlin T-Shirts and from time to time receive other swag which we receive for those who contribute to our community, what more of an incentive do you need ;</p></li>
+</ul>
+</section>
+<section id="monthly-org-meetings">
+<span id="id5"></span><h2>Monthly Org Meetings<a class="headerlink" href="#monthly-org-meetings" title="Permalink to this heading">#</a></h2>
+<p>We run monthly organizer meetups on the last Thursday of the month between 7pm-8pm (Berlin time) you have both the option to join in person or remotely. If you want to know how we plan events/ make decisions in the community either as purely an observer or more actively then you are welcome to join us :heart:</p>
+<p>Sometimes we will also try offer the main session trainings or facilitated discussion sessions that might interest community members involved in organization :slightly_smiling_face:</p>
+<p>If you want to be added to the calendar invite email us at <span class="xref myst">berlin&#64;pyladies.com</span> with the subject: <code class="docutils literal notranslate"><span class="pre">Pyladies</span> <span class="pre">org</span> <span class="pre">meetings</span></code>. We also post reminders including details on how you can join in our slack.</p>
+<p>Agenda points are set <a class="reference external" href="https://www.google.com/url?q=https://docs.google.com/document/d/11kaYPgLb4HXavPUbgTTngdGLXZjNMjW-LNnA4FkguYY/edit?usp%3Dsharing&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2nxnPeDc7vquLAu5sG459c">here</a> (ask in slack or email us if you cannot access it).</p>
+<p>We have three sections:</p>
+<ul class="simple">
+<li><p><strong>Announcement:</strong> short announcements that require no input or a thumbs up thumbs down from the group</p></li>
+<li><p><strong>Request for help:</strong> 5 minute slot to make your proposal and ask for help (including questions posed to you)</p></li>
+<li><p><strong>Discussion topics:</strong> Longer topics which require more input &amp; open discussion</p></li>
+</ul>
+<p>Each section has a time limit, then within each section we run a <a class="reference external" href="https://www.scrum.org/resources/blog/lean-coffee-5-minutes">coffee style facilitation</a>: 3 minutes are put on the clock, after 3 minutes we can move on to the next or keep going for 3 more minutes. Topics not reached will move to the top for the next meeting.</p>
+<p>Please be respectful and thoughtful, this is a space for all to participate and give their input. If you have spoken on a number of topics, give space on the next for other folks. Please stick to the current topic.</p>
+<p>We rotate facilitation of this meeting and if you are interesting in running the facilitation let us know via email.</p>
+</section>
+<section id="ready-for-more">
+<h2>Ready for more?<a class="headerlink" href="#ready-for-more" title="Permalink to this heading">#</a></h2>
+<p><span class="xref myst">&gt; back to the starting point</span>
+<a class="reference internal" href="#other-ways-you-might-support-the-community"><span class="std std-ref">&gt; other ways to support the community</span></a>
+<a class="reference internal" href="hosting_and_sponsorship.html#hosting-pyladies"><span class="std std-ref">&gt; hosting PyLadies Berlin</span></a></p>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./sub_pages"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  <!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="speakers_guide.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Speaker guidelines</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="templates/email_templates.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Email Templates</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-you-can-expect">What you can expect</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#testimonials">Testimonials</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ways-you-can-get-involved">Ways you can get involved</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#other-ways-you-might-support-the-community">Other ways you might support the community</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recognizing-your-work-what-we-can-offer">Recognizing your work, what we can offer</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#monthly-org-meetings">Monthly Org Meetings</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ready-for-more">Ready for more?</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            <div class="bd-footer-content__inner">
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By PyLadies Berlin
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div></div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
