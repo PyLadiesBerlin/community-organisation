@@ -4,7 +4,7 @@ A repository to track tasks related to organisation of our community.
 
 ## Documentation
 
-You will find [here](./docs/start_here.md) a list of documents that will help you get started with contributing to our community.
+You will find [here](berlin.pyladies.com/community-organisation/) documentation that will help you get started with contributing to our community.
 
 ### Generating the docs locally
 
