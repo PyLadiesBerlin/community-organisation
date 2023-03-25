@@ -4,11 +4,12 @@ PyLadies is completely ran by volunteers, we all have our own reasons for choosi
 
 **Page Contents**
 
-- [What you can expect](#what-you-can-expect)
-- [Ways you can get involved](#ways-you-can-get-involved)
-- [Recognizing your work, what we can offer](#recognizing-your-work-what-we-can-offer)
+- [What you can expect](what-you-can-expect)
+- [Ways you can get involved](ways-you-can-get-involved)
+- [Recognizing your work, what we can offer](recognizing-your-work-what-we-can-offer)
 
 
+(what-you-can-expect)=
 ## What you can expect
 
 Supporting can range from one off events, regular or a series of events, handling our social media or email, donating money or resources, or something else which you believe will benefit our community. As you will do this in your free time we always recommend to think about what is sustainable for your situation, and something you will feel is beneficial to you. For example giving a workshop might help you develop your public speaking skills while facilitating one might help develop managerial or team building skills. As a member of our community you are empowered to lead it and advocate for the things you feel are important. This work can be exciting and rewarding, it will not only help you build up skills, build a network within the broader Python community but also have a huge impact on many other community members. We recognize that many of you have other commitments and may have to drop out for a while or entirely if your situation changes.
@@ -38,6 +39,7 @@ Supporting can range from one off events, regular or a series of events, handlin
 *"I met some of the most supportive and inspiring organizers at PyLadies. It’s a great place to share knowledge and learn. To get motivated, and inspired, and pass on sponsorship opportunities as you get ahead in you career - pay it forward. I can’t think of a better network with worthier more hardworking, giving and sincere folks. I truly cherish these connections and experiences. So grateful."*
 ***- Noa Tamir***
 
+(ways-you-can-get-involved)=
 ## Ways you can get involved
 
 As we mentioned there are many ways to get involved. Some of the most common ways include:
@@ -45,14 +47,16 @@ As we mentioned there are many ways to get involved. Some of the most common way
 - [giving a talk or workshop](./giving_a_workshop_or_talk.md)
 - [facilitating an event](./facilitating_events.md)
 - [being a coach or mentor](./coaching.md)
-- [helping other on slack](./coaching.md#support-others-on-slack)
+- [helping other on slack](support-others-on-slack)
 - [managing our social media platforms](./social_media.md)
-- [managing our emails](./accounts.md#email-account-management)
+- [managing our emails](email-account-management)
 
+(other-ways-you-might-support-the-community)=
 ### Other ways you might support the community
 
-However perhaps you see an opportunity we have not yet identified, we welcome ideas and suggestions. If you want to discuss them more we suggest attending our [monthly org meeting](#monthly-org-meetings) which takes place on the last Thursday of the month, we post reminders including details on how you can join in our slack.
+However perhaps you see an opportunity we have not yet identified, we welcome ideas and suggestions. If you want to discuss them more we suggest attending our [monthly org meeting](monthly-org-meetings) which takes place on the last Thursday of the month, we post reminders including details on how you can join in our slack.
 
+(recognizing-your-work-what-we-can-offer)=
 ## Recognizing your work, what we can offer
 
 While we normally can't financially compensate folks for their work we still think it's important to recognize those who make our community so awesome :sparkle: we therefore have a couple ways that we can highlight your work:
@@ -62,13 +66,18 @@ While we normally can't financially compensate folks for their work we still thi
 
 *example of LinkedIn accreditation*
 
-<img src="../assets/imgs/example_linkedin_volunteering.png" alt="screen shot of linkedin profile with volunteering at PyLadies Berlin">
+```{image} ../assets/imgs/example_linkedin_volunteering.png
+:alt: screen shot of linkedin profile with volunteering at PyLadies Berlin
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
 
 - *coming soon* Add yourself to our website, we aim to make it easy to open a PR and add yourself as a contributor on our website. As soon as this is possible we will post information here.
 - *coming soon* Let us shout about you! We would love to make some noise about how you are supporting our community, we will collect some basic information so we can post on our social media platforms and show our appreciation.
-- *coming soon* We are currently waiting on PyLadies Berlin T-Shirts and from time to time receive other swag which we receive for those who contribute to our community, what more of an incentive do you need ;)
+- *coming soon* We are currently waiting on PyLadies Berlin T-Shirts and from time to time receive other swag which we receive for those who contribute to our community, what more of an incentive do you need ;
 
-
+(monthly-org-meetings)=
 ## Monthly Org Meetings
 
 We run monthly organizer meetups on the last Thursday of the month between 7pm-8pm (Berlin time) you have both the option to join in person or remotely. If you want to know how we plan events/ make decisions in the community either as purely an observer or more actively then you are welcome to join us :heart:
@@ -94,5 +103,5 @@ We rotate facilitation of this meeting and if you are interesting in running the
 ## Ready for more?
 
 [> back to the starting point](../start_here.md)
-[> other ways to support the community](./supporting_pyladies.md#other-ways-you-might-support-the-community)
-[> hosting PyLadies Berlin](./hosting_and_sponsorship.md#hosting-pyladies)
+[> other ways to support the community](other-ways-you-might-support-the-community)
+[> hosting PyLadies Berlin](hosting-pyladies)

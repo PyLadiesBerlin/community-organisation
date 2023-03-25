@@ -8,29 +8,32 @@ Our mission is to promote, educate and advance a diverse Python community throug
 
 **Page Contents**
 
-- [Membership](#membership)
-- [PyLadies Global council](#pyladies-global-council)
-- [Berlin Chapter](#berlin-chapter)
-- [Places you can find us](#places-you-can-find-us)
-- [Joining our slack](#joining-our-slack)
+- [Membership](membership)
+- [PyLadies Global council](pyladies-global-council)
+- [Berlin Chapter](berlin-chapter)
+- [Places you can find us](places-you-can-find-us)
+- [Joining our slack](joining-our-slack)
 
-# Membership
+(membership)=
 
 Anyone in the community can become an official member by [signing up](https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform) to do so, memberships offers:
 - automatic Python Software Foundation membership
 - the option to vote in PyLadies elections
 - offer feedback & get involved in the communities growth
 
+(pyladies-global-council)=
 ## PyLadies Global council
 
 In 2020 a global PyLadies council was formed. The Council has 9 seats, including 6 seats selected by public election with a 2 year service commitment and 3 seats selected by application with a 1 year service commitment. Additionally the [Council has a diversity and inclusion requirement](https://github.com/pyladies/global-organizing/blob/main/process/pyladies_global_council_election_proposals.md#diversity-and-inclusion-requirements) that sets a maximum of 3 seats to be filled by members from the same country of residence. You can read more about the council [here](https://pyladies.com/blog/Announcing-the-Inaugural-PyLadies-Global-Council/inaugural-pyladies-council/).
 
+(berlin-chapter)=
 ## Berlin Chapter
 
 The Berlin chapter has existed since 2013 and runs monthly meetups/ workshops through Meetup.com. We are more than 1000 members strong, although most sessions run with between 30-50 attendees (pre-pandemic). We have members of all experience levels and backgrounds.
 
-You can get a sense of the events we run by looking at the past events on [Meetup](https://www.meetup.com/pyladies-berlin/events/past) we also have some slides and materials from past events in this [repository](../../README.md#past-workshops)
+You can get a sense of the events we run by looking at the past events on [Meetup](https://www.meetup.com/pyladies-berlin/events/past) we also have some slides and materials from past events in this [repository](https://github.com/PyLadiesBerlin/resources/blob/main/README.md#past-workshops)
 
+(places-you-can-find-us)=
 ## Places you can find us
 
 - [Meetup](https://www.meetup.com/pyladies-berlin)
@@ -44,6 +47,7 @@ You can get a sense of the events we run by looking at the past events on [Meetu
 
 *Please note that as we are all volunteers it can take us a while to respond*
 
+(joining-our-slack)=
 ### Joining our slack
 
 Slack is where you can find out about upcoming events, scholarship opportunities, jobs, learning resources, you can ask and answer questions, find mentors and join discussions about various topics including conversations about Python to being a gender minority in tech.
@@ -69,5 +73,5 @@ Every person involved in our events and online community should comply with our 
 ## Ready for more?
 
 [> back to start point](../start_here.md)
-[> supporting the community](./supporting_pyladies.md#other-ways-you-might-support-the-community)
-[> sponsoring PyLadies Berlin](./hosting_and_sponsorship.md#sponsoring-pyladies)
+[> supporting the community](other-ways-you-might-support-the-community)
+[> sponsoring PyLadies Berlin](sponsoring-pyladies)

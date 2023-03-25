@@ -6,6 +6,15 @@ A repository to track tasks related to organisation of our community.
 
 You will find [here](./docs/start_here.md) a list of documents that will help you get started with contributing to our community.
 
+### Generating the docs locally
+
+To generate the docs locally you will need to install [poetry](https://www.mkdocs.org/) and then you can run the following commands:
+
+```bash
+poetry install
+poetry run jupyter-book build docs
+```
+
 ## Opening an Issue
 
 If you want to create a new event we encourage you to open a new issue to track the required tasks, please follow the [issue template](./.github/ISSUE_TEMPLATE/new-event.md).

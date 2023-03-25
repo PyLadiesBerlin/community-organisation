@@ -21,8 +21,11 @@ Best wishes,
 
 ---
 
+(speaker-emails)=
+## Speaker Emails
 
-## Speaker invitation email
+(speaker-invitation-email)=
+### Speaker invitation email
 
 **:white_check_mark: To be sent roughly 5 weeks before the meetup**
 
@@ -48,8 +51,8 @@ Greetings,
 
 ---
 
-
-## Speaker follow up email
+(speaker-follow-up-email)=
+### Speaker follow up email
 
 **:white_check_mark: To be sent roughly one week before the meetup**
 
@@ -57,11 +60,11 @@ Hi {SPEAKERS NAME} :smile:
 
 our meetup is coming up and we are much looking forward to having you join us! We hope your preparations are going well, do reach out if you have any questions or require support.
 
-### In person
+#### In person
 
 We will be at the location half an hour before the event begins, we welcome you to join then to test you can share you slides.
 
-### Remote
+#### Remote
 
 We will join the call/ streaming platform half an hour before the event begins, we welcome you to join then to test you can share you slides. The link for the call/platform is:{LINK FOR REMOTE EVENT} (you can also find this in the calendar event).
 
@@ -75,8 +78,8 @@ Best wishes,
 
 ---
 
-
-## Host confirmation email
+(host-confirmation-email)=
+### Host confirmation email
 
 **:white_check_mark: To be sent roughly five week before the meetup**
 
@@ -99,8 +102,8 @@ Greetings,
 
 ---
 
-
-## Host follow up email
+(host-follow-up-email)=
+### Host follow up email
 
 **:white_check_mark: To be sent roughly one week before the meetup**
 
@@ -119,8 +122,22 @@ Best wishes & thank you again for your support,
 
 ---
 
+(sponsor-thank-you-email)=
+### Sponsor thank you email
 
-## Sponsor thank you email
+Thank you for making our event a success ❤
 
+Thank you for making our event this past week a success! All the attendees who filled in our form told us they consider the space a safe and friendly environment, which is one of our top priorities. In fact, the vibe of the evening and feeling welcome and inspired were comments that almost all those who filled in the form mentioned, so a huge thank you to all speakers and hosts for making that the case!
 
----
+There were also a lot of comments around the topics our speakers chose and how motivational they were in terms of career-changing, staying healthy and meeting your ambitions!
+
+The only improvement comments we received were to do it more often 😅
+
+If you want to put the jobs on our slack and didn't already please join via https://slackin.pyladies.com the channel is #jobs-europe 
+
+The video from the event is here: https://www.youtube.com/@PyLadiesBerlin
+
+As speakers and hosts if you have any feedback for us we would love to hear it, we don't have a separate form but if you can drop us an email it would be appreciated.
+
+Wishing you a great end to the week and weekend,
+Jessica & PyLadies Berlin

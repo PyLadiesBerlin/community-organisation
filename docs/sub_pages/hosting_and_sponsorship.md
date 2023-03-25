@@ -4,18 +4,20 @@ If you landed here then we assume you are at least interested in knowing how you
 
 **Page Contents**
 
-- [Hosting PyLadies](#hosting-pyladies)
+- [Hosting PyLadies](hosting-pyladies)
   - [Register to host PyLadies](https://forms.gle/XdtKq865dqqW3fCD9)
-  - [Why host an event](#why-host-a-pyladies-event)
-  - [Company speakers](#company-speakers)
-  - [Sharing Job positions](#job-postings)
-- [Sponsoring PyLadies](#sponsoring-pyladies)
-  - [what we can offer in return](#what-we-can-offer-in-return)
+  - [Why host an event](why-host-a-pyladies-event)
+  - [Company speakers](company-speakers)
+  - [Sharing Job positions](job-postings)
+- [Sponsoring PyLadies](sponsoring-pyladies)
+  - [what we can offer in return](what-we-can-offer-in-return)
 
+(hosting-pyladies)=
 ## Hosting PyLadies
 
 One way many companies support the community by hosting our events. If you are interested to host us please fill in the following [form](https://forms.gle/XdtKq865dqqW3fCD9), which allows us to collect the relevant information and pair you with an upcoming event (note this might take some time depending on the current schedule). If you need more information or perhaps need something to persuade your employer to host us you can check the information below.
 
+(why-host-a-pyladies-event)=
 ### Why host a PyLadies event
 
 By sponsoring one of our events as a host, you are not only promoting Python development and diversity in tech, you can meet and talk to Python developers and enthusiasts. Our Meetups are a great opportunity to present your company, products and services to an interested audience, as well as find talented developers for your team.
@@ -34,14 +36,17 @@ The exact requirements will depend on the event, however below gives you an idea
  * if workshop/code along sessions: tables and electricity for participants
  * food and drinks (if possible)
 
+
 ### Code of Conduct
 
 Every person involved in our events should comply with our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
 
+(job-postings)=
 ### Job Postings
 
 We have a slack channel for job posts; you can join our slack [here](https://slackin.pyladies.com) and our find our workspace [here](https://pyladies.slack.com).
 
+(company-speakers)=
 ### Company speaker(s)
 
 We normally reserve a 5-10 minutes slot after our introduction for a host/sponsor presentation. Speakers should check out our [speakers guide](./speakers_guide.md). Note that:
@@ -50,7 +55,7 @@ We normally reserve a 5-10 minutes slot after our introduction for a host/sponso
    - Consider "folks" instead of "guys" and try to use other inclusive language (find more examples in our speaker guide)
    - We  know it can be hard, especially for an expert, to present something to an audience without prior knowledge, so we would like to offer to give feedback on slides or support the speaker if they have any questions. To organize this please send us an [email](mailto:berlin@pyladies). 
 
-
+(sponsoring-pyladies)=
 ## Sponsoring PyLadies
 
 If you are a company as well or instead of hosting us you might consider sponsoring us in other ways. Below are the types of sponsorship we have either had in the past or looking for, but if you have another idea in mind please drop us an [email](mailto:berlin@pyladies).
@@ -61,7 +66,7 @@ Currently we are looking for funding to buy swag that we can compensate our spea
 
 ### Childcare
 
-For some events (particularly those at weekends) we aim to provide child care options to support the participation of parents. This can cost around 500 EUR. As we don't have any form of income or donations we rely on companies to sponsor this for specific events. If you think you would be able to make a cover this for an upcoming event regardless of if yu plan to host the event) please send us a [email](mailto:berlin@pyladies)
+For some events (particularly those at weekends) we aim to provide child care options to support the participation of parents. This can cost around 500 EUR. As we don't have any form of income or donations we rely on companies to sponsor this for specific events. If you think you would be able to sponsor this for an upcoming event regardless of if you plan to host the event, please send us a [email](mailto:berlin@pyladies)
 
 ### Monetary Donations
 
@@ -75,6 +80,7 @@ We have also received and welcome donations of books and software licenses which
 
 Please see our documentation on conferences [here](./conference.md)
 
+(what-we-can-offer-in-return)=
 ### What we can offer in return
 
 We are deeply grateful to those who have sponsored us already and that it means we can reward and thank those who make our community so special as well as contribute to our goal of making the space more inclusive.

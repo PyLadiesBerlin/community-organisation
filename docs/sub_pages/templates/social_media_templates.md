@@ -10,15 +10,19 @@ These are examples of tweets used for the below purposes to give you inspiration
 
 TODO add tweet examples
 
+(announcing-an-event-on-twitter)=
 ### Announcing an event on Twitter
 
+(tweet-for-shortly-before-event)=
 ### Tweet for shortly before event
 
+(tweet-during-an-event)=
 ### Tweet during an event
 
-
+(tweet-after-an-event)=
 ### Tweet after an event
 
+(tweet-to-thank-sponsors)=
 ### Tweet to thank sponsors
 
 

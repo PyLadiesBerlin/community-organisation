@@ -4,24 +4,28 @@ We have folks in our community at all different levels, different domain and dif
 
 **Page Contents**
 
-- [Support others on slack](#support-others-on-slack)
-- [Be a coach](#be-a-coach-at-one-of-our-workshops)
-- [Offer mentorship](#offer-mentoring-sessions)
-- [Mentoring guide](#mentoring-guide)
-- [Coaching guides](#coaching-guides)
+- [Support others on slack](support-others-on-slack)
+- [Be a coach](be-a-coach-at-one-of-our-workshops)
+- [Offer mentorship](offer-mentoring-sessions)
+- [Mentoring guide](mentoring-guide)
+- [Coaching guides](coaching-guides)
 
+(support-others-on-slack)=
 ## Support others on slack
 
 Often folks will post questions on slack, even if you are not totally sure of the answer, if you can give some time to support the person with debugging their problem it will no doubt encourage them to continue with the task and ask more questions in the future. Asking questions is a part of or community's culture, asking them in public is even better, then not only yourself but also others can learn from the answer or discussion. Sometimes of course it's easier to move into a call or DM but please ensure this happens in a way that both sides feel comfortable and follows our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
 
+(be-a-coach-at-one-of-our-workshops)=
 ## Be a coach at one of our workshops
 
 Often we look for coaches for our events, this can be either for a one off or series of events, there is never any obligation. However if you have time it's a great way to support both attendees and those who are running the workshop. Event organizers will post in our slack channel [#city-germany-coaches](https://pyladies.slack.com/archives/C02U8K95FQC) with details of the event. You should expect that as well as attending the event you might need a couple of hours in the days beforehand to get familiar with the material. Again you often don't need to be an expert in the topic, the workshop lead will be able to handle more in depth questions but offering debugging support and rubber ducking can often be enough to help someone get through an exercise and prevent the workshop lead from being over stretched.
 
+(offer-mentoring-sessions)=
 ## Offer mentoring sessions
 
 Something else you might consider is setting time in your calendar free for folks to ask you questions or advice. You could use a tool like [Calendly](https://calendly.com/) to set up "bookable" slots in your calendar where folks can join a video call to talk to you. Be sure you only offer as many slot as is sustainable for you and as always that the sessions follow our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
 
+(mentoring-guide)=
 ### Mentoring guide
 
 Here is a collection of ideas of how you and your mentee might get started. If you have an idea or know something that worked well for you feel free to open a pull request! <3
@@ -62,7 +66,7 @@ Here is a collection of ideas of how you and your mentee might get started. If y
 	- AMA,a session like this might help the mentee better understand your job role and what opportunities are out there
 	- Growth coaching, you can support your mentee in discovering what direction they want to grow in and help them build a learning plan
 
-
+(coaching-guides)=
 ## Coaching Guides
 
 If you are looking to get started with coaching and interested to know how it works we recommend checking out this guide from Open Tech School https://www.opentechschool.org/guides#coaching-guidelines and this similar one from [Django girls](https://coach.djangogirls.org/tips/). Do not forget that any interactions between members must also follow our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/)

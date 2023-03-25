@@ -22,4 +22,4 @@ Not all talks need to be technical in subject, we welcome talks that empower and
 
 [back to the starting point](../start_here.md)
 [organizing an event](./facilitating_events.md)
-[supporting the community](./supporting_pyladies.md#other-ways-you-might-support-the-community)
+[supporting the community](other-ways-you-might-support-the-community)

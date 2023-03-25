@@ -1,5 +1,6 @@
 # Social Media
 
+(over-view-of-accounts-we-have)=
 ## Over view of the social media accounts we have
 
 - [Meetup](https://www.meetup.com/pyladies-berlin)
@@ -14,27 +15,32 @@
 
 ## Guidelines
 
-- [Meetup](#meetup)
-- [Slack](#slack)
-- [Email](#email)
-- [Twitter](#twitter)
-- [Instagram](#instagram)
-- [LinkedIn](#linkedin)
-- [Facebook](#facebook)
-- [YouTube](#youtube)
+- [Meetup](meetup)
+- [Slack](slack)
+- [Email](email)
+- [Twitter](twitter)
+- [Instagram](instagram)
+- [LinkedIn](linkedin)
+- [Facebook](facebook)
+- [YouTube](youtube)
 
+(meetup)=
 ### Meetup
 
 Our meetup is paid for by the PSF. A community member is required to be the main organizer, this may require them to add their credit card details but should not result in them being charged. Other members can be given different roles, which gives them different access rights such as being a co-organizer, event organizer etc In general we are not using these roles strictly but they may be useful to allow folks to create Meetup events.
 
-- [Setting up an event on meetup](./facilitating_events.md#setting-up-the-meetup-event)
+- [Setting up an event on meetup](setting-up-the-meetup-event)
 - [Template](./templates/meetup_template.md)
 
+(slack)=
 ### Slack
 
 The Slack is owned by the global PyLadies group, we have several channels and can also create new ones (which can be later archived) for example to organize specific events.
 
-There is a private channel called #organizers which has organizers from all the different chapters, mostly resources are shared in open channels but this can be useful for topics with a sensitive subject. If you want to be added please request this in the #city-berlin-events-organisation channel or raise it at one of our [Berlin chapter org meetings](./supporting_pyladies.md#monthly-org-meetings)
+There is a private channel called #organizers which has organizers from all the different chapters, mostly resources are shared in open channels but this can be useful for topics with a sensitive subject. If you want to be added please request this in the #city-berlin-events-organisation channel or raise it at one of our [Berlin chapter org meetings](monthly-org-meetings)
+
+(email)=
+### Email
 
 #### Integrations
 
@@ -46,27 +52,32 @@ We have a number of integrations in slack
 - 2FA
 	Our 2FA account uses [Telynx](https://telnyx.com/) to post in slack. [Read more on our 2FA](./accounts.md#2fa)
 
-
+(twitter)=
 ### Twitter
 
 ***Note that currently all tweets will also be posted in the slack channel #city-berlin and to our Facebook group.***
 
 [Templates](./templates/social_media_templates.md)
 
+(instagram)=
 ### Instagram
 
 [Templates](./templates/social_media_templates.md)
 
+(linkedin)=
 ### LinkedIn
 
 [Templates](./templates/social_media_templates.md)
 
+(facebook)=
 ### Facebook
 
 [Templates](./templates/social_media_templates.md)
 
+(youtube)=
 ### YouTube
 
+(adding-chapters-to-youtube)=
 #### Adding chapters to YouTube
 
 TODO

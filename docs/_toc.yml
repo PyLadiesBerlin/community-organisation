@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: faq
+- file: sub_pages/about_pyladies
+- file: sub_pages/accounts
+- file: sub_pages/coaching
+- file: sub_pages/conference
+- file: sub_pages/facilitating_events
+- file: sub_pages/giving_a_workshop_or_talk
+- file: sub_pages/hosting_and_sponsorship
+- file: sub_pages/resources
+- file: sub_pages/social_media
+- file: sub_pages/speakers_guide
+- file: sub_pages/supporting_pyladies
+- file: sub_pages/templates/email_templates
+- file: sub_pages/templates/meetup_template
+- file: sub_pages/templates/social_media_templates
+- file: _tags/tagsindex

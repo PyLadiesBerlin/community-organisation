@@ -1,3 +1,4 @@
+(meetup-template)=
 # Meetup Template
 
 You can copy the draft event found [here](https://www.meetup.com/pyladies-berlin/events/279950871) or copy the text below into a new event.
@@ -70,5 +71,3 @@ https://slackin.pyladies.com enter your email address.
 Accept the email invitation
 Go to workspace https://pyladies.slack.com
 Join channel #city-berlin, #germany, #jobs-europe
-
----

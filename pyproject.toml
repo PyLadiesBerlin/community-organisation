@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyladies-community-docs"
+version = "0.1.0"
+description = "Directory for generating community docs with Jupyter books."
+authors = ["PyLadies Berlin <berlin@pyladies.com>"]
+readme = "README.md"
+packages = [{include = "pyladies_community_docs"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter-book = "^0.15.1"
+sphinx-tags = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
