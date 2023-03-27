@@ -2,7 +2,7 @@
 name: conference
 about: This template is for tracking collaboration with a conference
 title: "[CONFERENCE] <conference-name>"
-labels: ''
+labels: Conference
 assignees: ''
 
 ---

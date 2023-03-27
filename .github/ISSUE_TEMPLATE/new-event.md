@@ -3,7 +3,7 @@ name: new-event
 about: This template is for creating a new event, be sure to update the description
   and issue title.
 title: "[EVENT] <month> <date>th - <meetup-title> @ <location>"
-labels: ''
+labels: event
 assignees: ''
 
 ---
