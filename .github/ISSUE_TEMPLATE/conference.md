@@ -10,6 +10,8 @@ assignees: ''
 **PyLadies contact:**
 **Conference contact:**
 **Conference website:**
+**Conference description:**
+**Does the conference pass our acceptance criteria:** *(to be fully defined but at a minimum means do they have a diverse set of speakers and DEI initiatives as well as enforced code of conduct)*
 
 **Location:**
 **Date:**
