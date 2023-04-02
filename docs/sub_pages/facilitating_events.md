@@ -18,6 +18,7 @@ Facilitating an event can include many different aspects of event organization. 
 - [Finding a host](finding-a-host)
 - [Finding speakers](finding-speakers)
 - [Setting up the meetup event](setting-up-the-meetup-event)
+- [Stream events with streamyard](stream-events-with-streamyard)
 
 (who-can-run-a-event-for-pyladies)=
 ## Who can run a event for PyLadies
@@ -198,7 +199,7 @@ When you are reviewing a talk make notes as the speaker gives their presentation
 - Could additional diagrams or images help explain some concepts?
 - Can the speaker use more inclusive language, ie instead of guys use folks
 
-(stream-events-on-streamyard)=
+(stream-events-with-streamyard)=
 ## Stream events on Streamyard
 
 We have started to use Streamyard to stream our events, this allows us to have a more professional looking stream and also allows us to record the event to YouTube. Currently we only have a free tier account which only allows us to stream to one destination and limits the branding we can use. We would like to look into other options for streaming and how we can finance this for future events. (see this [issue](https://github.com/PyLadiesBerlin/community-organisation/issues/11) for more details)
