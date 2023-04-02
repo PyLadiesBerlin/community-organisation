@@ -12,3 +12,5 @@ venv/
 
 # in case of using pyenv
 .python-version
+
+.DS_Store
