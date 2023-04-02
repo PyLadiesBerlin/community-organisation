@@ -27,12 +27,14 @@ In short anyone! If you have something you want to share with the community we e
 (what-running-an-event-involves)=
 ## What running an event involves
 
-First you will need to decide on when you want your event to run, our regular sessions run each month on the third Tuesday of the month but you may choose to run an event on another date. Check our [overview](https://docs.google.com/spreadsheets/d/1qc_b39H33XJKjB8E2fkfYpRG19JXkhICesTK4PSTGAc/edit?usp=sharing) for events to see what others are planning and also look at the [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19kaG1xbThpZmM4cW90b244cjhhczBoZ3Zmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to see if any other groups are planning events around your chosen date, events can overlap but of course if we can avoid it we try to do so. Below is then a check list of things you will need to organize for the event, we tend to track these on our [trello board](https://trello.com/b/6ugXFBTM/pyladies-berlin), you can get access [here](https://trello.com/invite/b/6ugXFBTM/9b7e64e874384d15ba5deffb9c343116/pyladies-berlin).
+First you will need to decide on when you want your event to run, our regular sessions run each month on the third Tuesday of the month but you may choose to run an event on another date. Check our [overview](https://docs.google.com/spreadsheets/d/1qc_b39H33XJKjB8E2fkfYpRG19JXkhICesTK4PSTGAc/edit?usp=sharing) for events to see what others are planning and also look at the [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19kaG1xbThpZmM4cW90b244cjhhczBoZ3Zmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to see if any other groups are planning events around your chosen date, events can overlap, but if we can avoid it we try to do so. 
+
+Below is then a check list of things you will need to organize for the event. You can track your event on our [GitHub project board](https://trello.com/b/6ugXFBTM/pyladies-berlin) by opening an issue on the repository [community-organisation](https://github.com/PyLadiesBerlin/community-organisation) using the template for events.
 
 (in-person-event)=
 ### In person event
 
-[Template Trello card in person event](https://trello.com/c/1kezYBC2/147-month-th-meetup-title-location)
+[Template Github Issue](https://github.com/PyLadiesBerlin/community-organisation/issues/new?assignees=&labels=event&template=new-event.md&title=%5BEVENT%5D+%3Cmonth%3E+%3Cdate%3Eth+-+%3Cmeetup-title%3E+%40+%3Clocation%3E)
 
 #### Month before
 - [ ] Define Speakers
@@ -88,12 +90,11 @@ Arrive 30-60 mins before and prepare the event.
 - [ ] Adjust guides if valuable feedback came up
 
 
-TODO ensure these match the ISSUE TEMPLATE
 
 (remote-event)=
 ### Remote event
 
-[Template Trello card remote event](https://trello.com/c/B0if4jRq/174-month-th-meetup-title-remote)
+TODO ensure these match the ISSUE TEMPLATE and add template for online only event
 
 #### Month before
 - [ ] Define Speakers
@@ -200,11 +201,199 @@ When you are reviewing a talk make notes as the speaker gives their presentation
 (stream-events-on-streamyard)=
 ## Stream events on Streamyard
 
-To access our Streamyard account you will need to get access to our lastpass, instructions to do so are [here](lastpass).
+We have started to use Streamyard to stream our events, this allows us to have a more professional looking stream and also allows us to record the event to YouTube. Currently we only have a free tier account which only allows us to stream to one destination and limits the branding we can use. We would like to look into other options for streaming and how we can finance this for future events. (see this [issue](https://github.com/PyLadiesBerlin/community-organisation/issues/11) for more details)
 
-TODO complete this section
 
-** Its possible to have two events run at once
+To access our Streamyard account you will need to be signed into our email, to get access to our lastpass, instructions to do so are [here](lastpass). Go to streamyard.com and go to login, enter our email berlin@pyladies.com, a code will be sent to the email which you can then enter to complete login.
+
+Once logged in you can follow these steps (pictures included) to create, schedule and facilitate a stream.
+
+### Schedule a new broadcast
+
+1. Click to create a new broadcast
+
+```{image} ../assets/imgs/streamyard/create_broadcast_step1.png
+:alt: create broadcast step1
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+2. Select Live stream
+
+```{image} ../assets/imgs/streamyard/create_broadcast_step2.png
+:alt: create broadcast step2
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+3. Enter the event details, we recommend to copy everything out of the Meetup page here (you will see later how this is also used by YouTube)
+
+```{image} ../assets/imgs/streamyard/create_broadcast_step3.png
+:alt: create broadcast step3
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+```{image} ../assets/imgs/streamyard/create_broadcast_step3b.png
+:alt: create broadcast step3b
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+4. Your event is now scheduled!
+
+```{image} ../assets/imgs/streamyard/create_broadcast_step4.png
+:alt: create broadcast step4
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+### Inside the broadcast
+
+1. Click on the three dots for the broadcast you want to enter to it's options, click on enter the broadcast.
+
+```{image} ../assets/imgs/streamyard/broadcast_options.png
+:alt: broadcast options
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
+2. Enter you details
+
+This is what folks will see on the broadcast, feel free to use the name you wish to be referred to by, you can also add your pronouns at the end of your name.
+
+```{image} ../assets/imgs/streamyard/enter_the_broadcast.png
+:alt: enter the broadcast
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
+
+3. You will now see the broadcast controls, in the pictures below you can see the different options, including annotation of some important points.
+
+```{image} ../assets/imgs/streamyard/inside_the_broadcast.png
+:alt: inside the broadcast, screen shot of broadcast panel
+:class: bg-primary mb-1
+:width: 800px
+:align: center
+```
+#### Important to note
+##### Inviting speakers
+
+You can invite speakers to join the broadcast, this is done by clicking on the invite button and then entering the email address of the speaker. The speaker will then receive an email with a link to join the broadcast. Alternatively you can get a link which can be shared with the speakers (ie in the calendar invite)
+
+```{image} ../assets/imgs/streamyard/broadcast_options.png
+:alt: broadcast options
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
+##### Backstage in the broadcast
+
+Backstage members will not be seen or heard by the audience, they will also only see and hear those in the current screen. Though the admin user can see backstage members video. You can send private messages to the speaker to communicate to them while they are backstage.
+
+##### Sharing the screen
+
+You can share your own screen, or invite speakers to share their screen. This is done in the middle of the main panel if you are in the broadcast already or from the broadcast options if you are not already inside it. You can also share a window, ie if you want to share a browser tab. This is *often* preferable over the slides sharing option, as then you can also see your speaker notes.
+
+```{image} ../assets/imgs/streamyard/broadcast_options.png
+:alt: broadcast options
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
+##### Comments to the audience
+
+You can send messages to the audience through the comment box, this will be posted everywhere the stream is happening (YouTube, Facebook, Twitter, etc). You will also see audience comments here, these can also be shown on the stream(ie if they ask a question).
+
+##### Banners
+
+Banners are a great way to add more interactivity to a stream, or to highlight things that have been mentioned or are being discussed ie links to resources mentioned, when a break is happening or switching speakers, another use can be to put the question that the speaker is currently answering in a summarized text form. There are two options for banners, a ticker scrolls across the bottom, where as banner's that are not tickers will stay in one place.
+
+```{image} ../assets/imgs/streamyard/banners_static.png
+:alt: non ticker banner
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+---
+
+```{image} ../assets/imgs/streamyard/banners_ticker.png
+:alt: ticker banner
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+##### Branding
+
+Branding is mostly (unfortunately) a premium feature, this means we only have one background currently and the Streamyard logo is over all streams. We can however upload videos, in our current branding section we have our wonderfully crafted count down video which can be shown at the start of streams. We can also upload videos of speakers who maybe have requested to prerecord their talk.
+
+```{image} ../assets/imgs/streamyard/branding_video_clips.png
+:alt: branding in streamyard
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
+### How the broadcast is used by YouTube
+
+1. After scheduling the broadcast YouTube will have created a live video page for it. You can find this by going to your YouTube channel and clicking on the live tab.
+
+```{image} ../assets/imgs/streamyard/event_on_youtube_channel.png
+:alt: how broadcast is used by youtube step3
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+2. The information provided in Streamyard will have been automatically sent to YouTube, however you can also edit this information here.
+
+```{image} ../assets/imgs/streamyard/youtube_video_info.png
+:alt: how broadcast is used by youtube step2
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+3. The video link is what you should share will attendees who want to watch live. They can also set themselves a reminder to watch the event in YouTube.
+
+```{image} ../assets/imgs/streamyard/preview_youtube.png
+:alt: how broadcast is used by youtube step3
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+### Deleting a broadcast
+
+1. To delete a broadcast go to the broadcast page and click on the three dots on the top right corner to see it's options.
+
+```{image} ../assets/imgs/streamyard/broadcast_options.png
+:alt: broadcast options
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
+2. Click on delete broadcast, be sure to also select to remove the video from YouTube.
+
+```{image} ../assets/imgs/streamyard/delete_broadcast_step2.png
+:alt: delete broadcast step2
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+
+
+** **NOTE: Its possible to have two events run at once**
 
 (creating-a-qa-with-slido)=
 ## Creating a QA with Slido *(optional)*
