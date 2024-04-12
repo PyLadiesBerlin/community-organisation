@@ -1,12 +1,12 @@
 # Facilitating an event
 
 Facilitating an event can include many different aspects of event organization. Normally at least one person is required to lead the event though ideal there are two or more people involved. Some sections will not be relevant so feel free to jump to those which are, where possible we will try guide you to get to the relevant information for your needs as quick as possible. What's important to remember when planning an event is what our community's mission is and if therefore the event you want to run is best suited to PyLadies or perhaps to another other group (we are open to and have previously collaborated with other groups). Secondly all events and attendees **must** abide to our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/). Otherwise it is open for you to bring your ideas to the community. The guides below will give you examples of what has worked before as well as how to set up events on our meetup page, where to find our logos, post on our social media, handle Code of Conduct breaches, support speakers, and collect feedback.
- 
+
 [> I have an idea for an event what do I need to do to run it?](what-running-an-event-involves)
 [> I have an idea for a event and I need support to run it](getting-support-to-facilitate-your-event)
 [> I need a location for my event]()
 [> I want to setup the meetup page and announce my event](what-you-can-expect)
-[> I am looking to support an event](ways-you-can-get-involved) 
+[> I am looking to support an event](ways-you-can-get-involved)
 
 **Page Contents**
 
@@ -28,7 +28,7 @@ In short anyone! If you have something you want to share with the community we e
 (what-running-an-event-involves)=
 ## What running an event involves
 
-First you will need to decide on when you want your event to run, our regular sessions run each month on the third Tuesday of the month but you may choose to run an event on another date. Check our [overview](https://docs.google.com/spreadsheets/d/1qc_b39H33XJKjB8E2fkfYpRG19JXkhICesTK4PSTGAc/edit?usp=sharing) for events to see what others are planning and also look at the [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19kaG1xbThpZmM4cW90b244cjhhczBoZ3Zmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to see if any other groups are planning events around your chosen date, events can overlap, but if we can avoid it we try to do so. 
+First you will need to decide on when you want your event to run, our regular sessions run each month on the second Tuesday of the month but you may choose to run an event on another date. Check our [overview](https://docs.google.com/spreadsheets/d/1qc_b39H33XJKjB8E2fkfYpRG19JXkhICesTK4PSTGAc/edit?usp=sharing) for events to see what others are planning and also look at the [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19kaG1xbThpZmM4cW90b244cjhhczBoZ3Zmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to see if any other groups are planning events around your chosen date, events can overlap, but if we can avoid it we try to do so.
 
 Below is then a check list of things you will need to organize for the event. You can track your event on our [GitHub project board](https://trello.com/b/6ugXFBTM/pyladies-berlin) by opening an issue on the repository [community-organisation](https://github.com/PyLadiesBerlin/community-organisation) using the template for events.
 
@@ -166,7 +166,7 @@ One week before the event we recommend sending the following [follow up email](h
 (finding-speakers)=
 ## Finding speakers
 
-We usually ask community members directly to give talks and also have some that reach out to us by email. We ask potential speakers to fill in the following [form](https://forms.gle/K7qGPhzkuAfNmuWNA), this allows us to collect all the required information to announce the event. You can check if we have any speakers in the resulting [google sheet](https://docs.google.com/spreadsheets/d/15N5kAJcsTmwtalY0JsbH_hwjLrFpSh5JeV-uXF3b3-A/edit#gid=502229920) (note that to access this you will need to be part of our [google group](google-group)). 
+We usually ask community members directly to give talks and also have some that reach out to us by email. We ask potential speakers to fill in the following [form](https://forms.gle/K7qGPhzkuAfNmuWNA), this allows us to collect all the required information to announce the event. You can check if we have any speakers in the resulting [google sheet](https://docs.google.com/spreadsheets/d/15N5kAJcsTmwtalY0JsbH_hwjLrFpSh5JeV-uXF3b3-A/edit#gid=502229920) (note that to access this you will need to be part of our [google group](google-group)).
 
 Once you have a date for the event you can send an email (or slack message) to the speaker inviting them to the meetup and setting up a dry run (if requested), the [following template email](speaker-invitation-email) should help you.
 
